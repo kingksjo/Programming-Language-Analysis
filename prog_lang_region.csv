@@ -1,0 +1,251 @@
+geoName,Python,Rust,Java,C++,JavaScript
+Afghanistan,17,1,18,55,9
+Albania,8,1,29,54,8
+Algeria,15,1,11,69,4
+American Samoa,6,7,8,78,1
+Andorra,18,4,13,57,8
+Angola,8,0,19,67,6
+Anguilla,0,9,0,91,0
+Antarctica,0,0,0,0,0
+Antigua & Barbuda,8,5,8,76,3
+Argentina,11,2,10,69,8
+Armenia,33,2,17,34,14
+Aruba,8,7,7,75,3
+Australia,20,9,9,57,5
+Austria,20,10,13,51,6
+Azerbaijan,21,1,16,54,8
+Bahamas,8,5,6,78,3
+Bahrain,15,3,13,64,5
+Bangladesh,15,1,19,57,8
+Barbados,10,5,8,72,5
+Belarus,25,4,28,36,7
+Belgium,19,6,10,59,6
+Belize,9,5,8,74,4
+Benin,14,0,23,56,7
+Bermuda,13,8,5,72,2
+Bhutan,32,1,10,52,5
+Bolivia,12,1,16,64,7
+Bosnia & Herzegovina,13,2,13,62,10
+Botswana,14,3,14,66,3
+Bouvet Island,0,0,0,0,0
+Brazil,11,0,9,75,5
+British Indian Ocean Territory,0,0,0,0,0
+British Virgin Islands,6,7,6,79,2
+Brunei,11,4,11,71,3
+Bulgaria,22,3,22,41,12
+Burkina Faso,10,0,18,70,2
+Burundi,10,0,23,61,6
+Cambodia,13,1,21,55,10
+Cameroon,10,0,23,63,4
+Canada,18,7,10,59,6
+Cape Verde,16,1,13,62,8
+Caribbean Netherlands,9,9,7,72,3
+Cayman Islands,11,6,8,71,4
+Central African Republic,4,0,39,56,1
+Chad,9,0,13,76,2
+Chile,18,3,11,62,6
+China,51,3,29,14,3
+Christmas Island,0,0,0,100,0
+Cocos (Keeling) Islands,0,0,0,0,0
+Colombia,17,1,14,60,8
+Comoros,5,0,7,86,2
+Congo - Brazzaville,9,0,12,76,3
+Congo - Kinshasa,6,0,25,67,2
+Cook Islands,8,9,9,68,6
+Costa Rica,18,2,17,54,9
+Croatia,18,3,12,60,7
+Cuba,14,2,13,65,6
+Curaçao,11,9,7,68,5
+Cyprus,23,4,12,54,7
+Czechia,21,8,12,52,7
+Côte d’Ivoire,10,0,15,71,4
+Denmark,21,8,9,56,6
+Djibouti,14,0,10,74,2
+Dominica,9,5,8,74,4
+Dominican Republic,10,1,9,73,7
+Ecuador,11,0,16,68,5
+Egypt,26,1,15,48,10
+El Salvador,9,1,17,65,8
+Equatorial Guinea,9,0,10,76,5
+Eritrea,42,0,29,21,8
+Estonia,25,10,19,36,10
+Eswatini,11,1,10,75,3
+Ethiopia,19,1,30,43,7
+Falkland Islands (Islas Malvinas),8,8,0,84,0
+Faroe Islands,16,11,11,53,9
+Fiji,10,4,10,73,3
+Finland,24,7,10,51,8
+France,16,2,7,71,4
+French Guiana,13,0,4,82,1
+French Polynesia,13,1,7,75,4
+French Southern Territories,0,0,0,0,0
+Gabon,7,0,10,80,3
+Gambia,11,1,11,73,4
+Georgia,24,3,14,47,12
+Germany,21,6,12,56,5
+Ghana,14,1,11,69,5
+Gibraltar,16,8,9,60,7
+Greece,24,3,14,53,6
+Greenland,12,8,7,69,4
+Grenada,8,4,7,77,4
+Guadeloupe,9,1,4,84,2
+Guam,6,10,10,72,2
+Guatemala,10,0,15,69,6
+Guernsey,15,10,5,66,4
+Guinea,5,0,26,67,2
+Guinea-Bissau,4,0,14,81,1
+Guyana,8,4,7,79,2
+Haiti,5,0,5,87,3
+Heard & McDonald Islands,0,0,0,0,0
+Honduras,7,1,12,74,6
+Hong Kong,30,2,16,47,5
+Hungary,18,4,15,56,7
+Iceland,29,7,9,47,8
+India,24,0,24,45,7
+Indonesia,7,0,13,76,4
+Iran,32,2,11,47,8
+Iraq,16,3,12,64,5
+Ireland,21,6,13,54,6
+Isle of Man,10,10,9,65,6
+Israel,45,2,16,29,8
+Italy,10,1,8,77,4
+Jamaica,10,3,8,74,5
+Japan,24,2,15,51,8
+Jersey,10,10,5,71,4
+Jordan,20,2,18,51,9
+Kazakhstan,32,3,16,45,4
+Kenya,18,2,18,55,7
+Kiribati,15,0,9,70,6
+Kosovo,11,1,26,50,12
+Kuwait,13,3,9,72,3
+Kyrgyzstan,34,1,21,36,8
+Laos,19,1,19,53,8
+Latvia,19,10,18,44,9
+Lebanon,17,2,16,57,8
+Lesotho,13,2,15,66,4
+Liberia,4,0,9,85,2
+Libya,13,2,11,70,4
+Liechtenstein,25,11,11,47,6
+Lithuania,18,11,14,48,9
+Luxembourg,24,4,16,50,6
+Macao,31,2,10,52,5
+Madagascar,18,0,29,40,13
+Malawi,12,1,17,65,5
+Malaysia,14,2,13,65,6
+Maldives,12,4,11,68,5
+Mali,7,0,13,77,3
+Malta,18,6,12,58,6
+Marshall Islands,12,5,8,71,4
+Martinique,7,0,3,88,2
+Mauritania,14,0,12,69,5
+Mauritius,13,2,14,65,6
+Mayotte,11,0,5,83,1
+Mexico,11,1,14,68,6
+Micronesia,5,5,7,80,3
+Moldova,14,4,18,56,8
+Monaco,0,0,0,0,0
+Mongolia,21,2,20,45,12
+Montenegro,17,3,12,61,7
+Montserrat,14,6,6,69,5
+Morocco,20,1,13,59,7
+Mozambique,8,0,20,69,3
+Myanmar (Burma),17,1,25,46,11
+Namibia,11,5,11,70,3
+Nauru,0,0,0,100,0
+Nepal,18,1,17,56,8
+Netherlands,23,9,10,51,7
+New Caledonia,15,1,9,71,4
+New Zealand,18,10,10,57,5
+Nicaragua,6,0,10,78,6
+Niger,7,0,11,80,2
+Nigeria,12,1,18,62,7
+Niue,0,0,0,0,0
+Norfolk Island,0,0,0,0,0
+North Korea,0,0,0,0,0
+North Macedonia,15,2,20,48,15
+Northern Mariana Islands,6,8,22,63,1
+Norway,27,11,11,43,8
+Oman,21,2,12,61,4
+Pakistan,19,1,14,55,11
+Palau,6,4,11,73,6
+Palestine,24,2,22,43,9
+Panama,11,2,12,70,5
+Papua New Guinea,11,3,14,67,5
+Paraguay,9,1,13,72,5
+Peru,12,1,15,67,5
+Philippines,11,4,16,62,7
+Pitcairn Islands,0,0,0,0,0
+Poland,15,2,11,68,4
+Portugal,21,3,14,54,8
+Puerto Rico,12,5,7,73,3
+Qatar,16,2,9,69,4
+Romania,12,3,11,68,6
+Russia,36,5,17,37,5
+Rwanda,20,1,22,46,11
+Réunion,10,1,4,82,3
+Samoa,4,4,15,74,3
+San Marino,11,1,11,65,12
+Saudi Arabia,19,2,15,59,5
+Senegal,12,0,8,76,4
+Serbia,17,2,16,55,10
+Seychelles,10,5,11,71,3
+Sierra Leone,5,0,26,67,2
+Singapore,35,3,16,39,7
+Sint Maarten,7,5,9,76,3
+Slovakia,18,4,14,57,7
+Slovenia,22,5,13,52,8
+Solomon Islands,7,3,18,69,3
+Somalia,16,1,15,60,8
+South Africa,11,5,8,72,4
+South Georgia & South Sandwich Islands,0,0,0,0,0
+South Korea,33,1,21,32,13
+South Sudan,4,0,29,66,1
+Spain,16,3,16,58,7
+Sri Lanka,9,0,12,75,4
+St. Barthélemy,8,0,3,87,2
+St. Helena,36,2,24,29,9
+St. Kitts & Nevis,11,5,7,74,3
+St. Lucia,6,4,6,81,3
+St. Martin,7,2,10,79,2
+St. Pierre & Miquelon,8,6,5,81,0
+St. Vincent & Grenadines,7,4,6,79,4
+Sudan,17,1,21,56,5
+Suriname,8,10,13,66,3
+Svalbard & Jan Mayen,49,5,0,46,0
+Sweden,22,6,13,51,8
+Switzerland,27,8,12,48,5
+Syria,20,1,17,53,9
+São Tomé & Príncipe,9,0,23,58,10
+Taiwan,29,1,10,55,5
+Tajikistan,25,1,16,50,8
+Tanzania,9,1,24,62,4
+Thailand,17,2,8,67,6
+Timor-Leste,10,0,12,75,3
+Togo,13,0,20,62,5
+Tokelau,0,0,0,0,0
+Tonga,19,2,14,61,4
+Trinidad & Tobago,9,5,8,75,3
+Tunisia,26,1,16,49,8
+Turkmenistan,21,1,16,56,6
+Turks & Caicos Islands,7,5,6,80,2
+Tuvalu,0,0,0,0,0
+Türkiye,13,2,12,69,4
+U.S. Outlying Islands,0,0,0,0,0
+U.S. Virgin Islands,9,8,9,72,2
+Uganda,9,0,16,72,3
+Ukraine,28,5,19,40,8
+United Arab Emirates,20,2,11,62,5
+United Kingdom,21,7,8,59,5
+United States,20,7,12,56,5
+Uruguay,13,3,18,57,9
+Uzbekistan,30,1,23,38,8
+Vanuatu,13,5,11,66,5
+Vatican City,0,0,0,0,0
+Venezuela,9,1,14,68,8
+Vietnam,12,0,13,69,6
+Wallis & Futuna,0,0,0,0,0
+Western Sahara,21,1,12,59,7
+Yemen,23,1,17,50,9
+Zambia,6,1,16,75,2
+Zimbabwe,17,2,25,52,4
+Åland Islands,12,8,25,44,11
